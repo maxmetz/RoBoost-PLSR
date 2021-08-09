@@ -1,0 +1,19 @@
+Package: roboost
+Title: RoBoost-PLSR : robust method or partial least saqures regression 
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Maxime",
+           family = "Metz",
+           role = c("aut", "cre"),
+           email = "maxime.metz57200@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: RoBoost-PLSR : robust method for partial least squares regression 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
